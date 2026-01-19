@@ -1,11 +1,11 @@
 {
     "server": {
-        "host": "your-aternos-server.aternos.me",
-        "port": 25565,
-        "version": "1.20.1"
+        "host": "toropos.aternos.me",
+        "port": 52405,
+        "version": "1.21.11"
     },
     "bot": {
-        "username": "Visa2CodeBot",
+        "username": "ATERNOS-24/7",
         "reconnectDelay": 5000,
         "activityInterval": 30000,
         "randomLeaveChance": 0.05,
